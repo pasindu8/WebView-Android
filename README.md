@@ -40,12 +40,27 @@ com.example.email/
 ## 🚀 Getting Started
 Follow these instructions to get a copy of the project up and running on your local machine.
 
-Prerequisites
-Android Studio (Jellyfish or newer recommended)
+### Prerequisites
+<ul>
+  <li>Android Studio (Jellyfish or newer recommended)</li>
+  <li>Android SDK API 24+ (Android 7.0 Nougat or higher)</li>
+</ul>
 
-Android SDK API 24+ (Android 7.0 Nougat or higher)
-
-Installation & Run
-Clone the repository:
+### Installation & Run
+<ol>
+<li>Clone the repository:</li>
+  
 ```Bash
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
+git clone https://github.com/pasindu8/WebView-Android.git
+```
+<li>Open the project inside Android Studio.</li>
+
+<li>Let Gradle sync and download the necessary dependencies.</li>
+
+<li>Connect your physical Android device via USB (or start an Emulator).</li>
+
+<li>Press the green Run button in Android Studio.</li>
+</ol>
+
+### 📄 License
+This project is open-source and available under the MIT License.
